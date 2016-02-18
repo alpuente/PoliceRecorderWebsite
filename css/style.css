@@ -81,8 +81,6 @@ $medium-only: "only screen and (min-width : #{$small-screen-up}) and (max-width 
   }
 }
 
-
-/// Styles for demo
 .text-center {
   text-align: center;
 }
